@@ -3,7 +3,6 @@ module github.com/VideoAmp/gobank
 go 1.20
 
 require (
-	github.com/durmaze/gobank v0.0.0-20190411075543-aa169ba28e80
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.27.8
 	github.com/parnurzeal/gorequest v0.2.16

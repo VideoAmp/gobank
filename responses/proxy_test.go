@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"sync"
 
-	"github.com/durmaze/gobank/responses"
+	"github.com/VideoAmp/gobank/responses"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

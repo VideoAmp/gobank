@@ -5,7 +5,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/durmaze/gobank/predicates"
+	"github.com/VideoAmp/gobank/predicates"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
