@@ -5,7 +5,7 @@ import (
 
 	"sync"
 
-	"github.com/durmaze/gobank"
+	"github.com/VideoAmp/gobank"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
