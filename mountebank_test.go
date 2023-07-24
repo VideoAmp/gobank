@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/durmaze/gobank"
-	"github.com/durmaze/gobank/predicates"
-	"github.com/durmaze/gobank/responses"
+	"github.com/VideoAmp/gobank"
+	"github.com/VideoAmp/gobank/predicates"
+	"github.com/VideoAmp/gobank/responses"
 	"github.com/parnurzeal/gorequest"
 
 	. "github.com/onsi/ginkgo"

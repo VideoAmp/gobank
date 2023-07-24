@@ -1,8 +1,8 @@
 package gobank
 
 import (
-	"github.com/durmaze/gobank/predicates"
-	"github.com/durmaze/gobank/responses"
+	"github.com/VideoAmp/gobank/predicates"
+	"github.com/VideoAmp/gobank/responses"
 )
 
 type StubElement struct {
